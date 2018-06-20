@@ -1,9 +1,9 @@
 # PRG -- Ročníkový projekt, 3. ročník
 
-1. přepište tento soubor
-1. napište sem název a zadání svého projektu
-1. v souboru [LICENSE](LICENSE) si nastavte licenci
-1. pracujte a **průběžně** sem nahrávejte své zdrojové kódy
+1. SNAKE ( HAD ) 
+2. Ovládání pomocí šipek (nahoru, dolu, doleva, doprava)
+3. Cílem hry je ovládat hada a sbírat ovoce (červené kolečka)
+4. Hra končí v případě tom, že sám do sebe narazíte nebo do stěny 
 
 
 ## Několik inspirujících odkazů
